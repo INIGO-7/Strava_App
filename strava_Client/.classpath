@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/Users/inigo/Desktop/Programming/Java/Software_Design/software-design-workspace/strava_Client/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/inigo/Desktop/Programming/Java/Software_Design/software-design-workspace/strava_Client/lib/strava.jar"/>
+	<classpathentry kind="con" path="C:/Users/inigo/Desktop/Programming/Java/Software_Design/software-design-workspace/strava_Client/bin"/>
+	<classpathentry kind="src" path="/strava_Server"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

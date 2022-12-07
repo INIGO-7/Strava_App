@@ -1,0 +1,14 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.selectedElement=Torg.eclipse.jdt.ui.presentation
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.ColoredLabels.match_highlight=32,36,64
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END=19,21,37
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=17,19,34
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=187,191,221
+org.eclipse.ui.workbench.ACTIVE_TAB_BG_END=19,21,37
+org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=17,19,34
+org.eclipse.ui.workbench.ACTIVE_TAB_TEXT_COLOR=0,0,0
+org.eclipse.ui.workbench.INACTIVE_TAB_BG_END=19,21,37
+org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=24,27,47
+org.eclipse.ui.workbench.INACTIVE_TAB_TEXT_COLOR=187,191,221

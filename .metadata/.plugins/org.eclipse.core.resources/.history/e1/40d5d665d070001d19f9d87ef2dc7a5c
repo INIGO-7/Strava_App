@@ -1,0 +1,38 @@
+package server.gateway;
+
+public class GoogleGateway extends LoginGateway{
+	
+	private static GoogleGateway googleGateway;
+	
+	public GoogleGateway() {
+		
+	}
+	
+	public static GoogleGateway getInstance() {
+		if(googleGateway==null) {
+			googleGateway = new GoogleGateway();
+		}
+		return googleGateway;
+	}
+	
+	public ILoginGateway createFactory(boolean which) {
+		if(which) {
+			return new FacebookGateway();
+		}else{
+			return new GoogleGateway();
+		}
+	}
+
+	@Override
+	public String register(String email, String password) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String login(String email, String password) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
